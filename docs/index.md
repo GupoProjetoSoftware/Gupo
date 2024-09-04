@@ -27,9 +27,11 @@
 
 # Autores
 
-* André Sapucaia
-* Aluno 2
-* Aluno 3
+* André Sapucaia                 10418734
+* Bernardo Souza Oliveira        10312871
+* Diogo Ozi                      10403852
+* Henrique Yuji Isogai Yoneoka   10418153
+* José Victor Scheurich Roling   10418225
 * Aluno 4
 * Aluno 5
 * Aluno 6
