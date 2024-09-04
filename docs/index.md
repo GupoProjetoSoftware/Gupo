@@ -27,7 +27,7 @@
 
 # Autores
 
-* Aluno 1
+* André Sapucaia
 * Aluno 2
 * Aluno 3
 * Aluno 4
