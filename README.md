@@ -21,7 +21,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Projeto: *<Sistema de presença Gupo>*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *<Gupo>*
 
 # Descrição
 
