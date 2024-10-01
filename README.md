@@ -25,7 +25,7 @@ A seguir, os passos para a preparação do projeto:
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+o projeto consistirá de um sistema de presença para a escola INFINITO. Ele terá que computar as faltas dos alunos de todas as turmas da escola (do primeiro ao quinto ano do ensino fundamental). Esse sistema deverá gerar um relatório de faltas organizados por diversas categorias, como data, ano de ensino, turma, professor, disciplina ou aluno. Nessa escola, a chamada é feita duas vezes ao dia, já que a maior parte das matérias é ministrada pelo mesmo professor. Caso o aluno termine o ano com menos de 75% de presença, o sistema deverá considerá-lo como "reprovado por faltas". Portanto, a partir do momento em que o aluno tiver uma porcentagem de presença menor do que 80%, o sistema deverá enviar uma notificação aos responsáveis do aluno avisando que ele está próximo do limite de faltas. Adicionalmente, o sistema deverá ser inclusivo, de forma que pessoas portadoras de deficiências físicas sejam capazes de utilizá-lo sem dificuldades, e intuitivo, de forma que os usuários consigam utilizá-lo de forma prática, e por meio de qualquer navegador web.
 
 # Documentação
 
