@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de presença Gupo&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -32,11 +32,6 @@
 * Diogo Ozi                      10403852
 * Henrique Yuji Isogai Yoneoka   10418153
 * José Victor Scheurich Roling   10418225
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do Projeto
@@ -54,11 +49,12 @@ O projeto consistirá de um sistema de presença para a escola INFINITO. Ele ter
 
 # Diagrama de Atividades
 
-*&lt;Diagrama para visualizer as pessoas das áreas de negócios e de desenvolvimento de uma organização para entender o processo e comportamento.&gt;*
+![image](https://github.com/user-attachments/assets/33941c67-2192-4b0d-a1f2-2ee0d61c8a8a)
+
 
 # Diagrama de Casos de Uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![image](https://github.com/user-attachments/assets/0e3af51a-b65a-4969-be8d-b40d553c0674)
 
 # Descrição dos Casos de Uso
 
