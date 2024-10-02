@@ -66,8 +66,7 @@ link: https://app.diagrams.net/#G1cr0_u92LDlYab_agNlxLE18xNJm6x0E1#%7B%22pageId%
 
 # Diagrama de Casos de Uso
 
-
-![image](https://github.com/user-attachments/assets/5685482d-756f-4240-963e-b47c1c623c8c)
+![image](https://github.com/user-attachments/assets/a8723126-092d-4082-8210-5423762df325)
 link: https://app.diagrams.net/#G1t5n4MYqT5EJt036Dnl3jX7yXbz_8akx1#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 # Descrição dos Casos de Uso
