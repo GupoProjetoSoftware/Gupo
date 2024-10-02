@@ -39,12 +39,12 @@
 O projeto consistirá de um sistema de presença para a escola INFINITO. Ele terá que computar as faltas dos alunos de todas as turmas da escola (do primeiro ao quinto ano do ensino fundamental). Esse sistema deverá gerar um relatório de faltas organizados por diversas categorias, como data, ano de ensino, turma, professor, disciplina ou aluno. Nessa escola, a chamada é feita duas vezes ao dia, já que a maior parte das matérias é ministrada pelo mesmo professor. Caso o aluno termine o ano com menos de 75% de presença, o sistema deverá considerá-lo como "reprovado por faltas". Portanto, a partir do momento em que o aluno tiver uma porcentagem de presença menor do que 80%, o sistema deverá enviar uma notificação aos responsáveis do aluno avisando que ele está próximo do limite de faltas. Adicionalmente, o sistema deverá ser inclusivo, de forma que pessoas portadoras de deficiências físicas sejam capazes de utilizá-lo sem dificuldades, e intuitivo, de forma que os usuários consigam utilizá-lo de forma prática, e por meio de qualquer navegador web.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
-[RF001  - Login]: O usuário deve ser capaz de entrar no sistema utilizando o nome de usuário e senha.
-[RF002  -  Cadastro]: O usuário deve ser capaz de criar uma conta no sistema inserindo os dados pessoais.
-[RF003  -  Painel de faltas]: O usuário deve ser capaz de visualizar as faltas organizadas em datas, turmas, disciplinas, professor, ano de ensino e faltas.
-[RF004  -  Sistema de chamada]: O professor deve ser capaz de realizar a chamada ao final da aula selecionando a turma desejada.
-[RF005  -  Notificação ao responsável]: O sistema deve enviar uma notificação ao responsável do aluno quando o mesmo tem menos de 80% de presença.
-[RF006  -  Visualizar perfil]: O aluno, o professor e o responsável deve ser capaz de acessar o perfil do aluno com as suas informações.
+[RF001  - Login]: O usuário deve ser capaz de entrar no sistema utilizando o nome de usuário e senha.</br>
+[RF002  -  Cadastro]: O usuário deve ser capaz de criar uma conta no sistema inserindo os dados pessoais.</br>
+[RF003  -  Painel de faltas]: O usuário deve ser capaz de visualizar as faltas organizadas em datas, turmas, disciplinas, professor, ano de ensino e faltas.</br>
+[RF004  -  Sistema de chamada]: O professor deve ser capaz de realizar a chamada ao final da aula selecionando a turma desejada.</br>
+[RF005  -  Notificação ao responsável]: O sistema deve enviar uma notificação ao responsável do aluno quando o mesmo tem menos de 80% de presença.</br>
+[RF006  -  Visualizar perfil]: O aluno, o professor e o responsável deve ser capaz de acessar o perfil do aluno com as suas informações.</br>
 [RF007  -  Pesquisar aluno]: O professor deve ser capaz de encontrar o aluno desejado por nome e turma.
 
 # Diagrama de Atividades
