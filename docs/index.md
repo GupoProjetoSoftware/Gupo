@@ -12,12 +12,12 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do Projeto](#introdução-do-projeto)
-- [Análise de Requisitos Funcionais e Não-Fucionais](#descrição-dos-requisitos)
+- [Autores](#autores)
+- [Descrição do Projeto](#descrição-do-projeto)
+- [Análise de Requisitos Funcionais e Não-Fucionais](#análise-de-requisitos-funcionais-e-não-funcionais)
 - [Diagrama de Atividades](#diagrama-de-atividades) 
-- [Diagrama de Casos de Uso](#diagrama-de-comportamento-atores)
-- [Descrição dos Casos de Uso](#descrição-das-funcões)
+- [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
+- [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
 - [Diagrama de Senquencia](#diagrama-de-ordem-interações)
 - [Diagrama de Classes](#diagrama-orientado-objetos)
 - [Diagrama de Estados](#diagrama-estrutura-componente)
@@ -36,7 +36,7 @@
 
 # Descrição do Projeto
 
-O projeto consistirá de um sistema de presença para a escola INFINITO. Ele terá que computar as faltas dos alunos de todas as turmas da escola (do primeiro ao quinto ano do ensino fundamental). Haverá um professor principal que é responsável pelas disciplinas de Matemática, Português, Artes, Ciências, História e Geografia, e um professor para Inlês e outro para Educação Física. Esse sistema deverá gerar um relatório de faltas organizados por diversas categorias, como data, ano de ensino, turma, professor, disciplina ou aluno. Nessa escola, a chamada é feita duas vezes ao dia, já que a maior parte das matérias é ministrada pelo mesmo professor. Caso o aluno termine o ano com menos de 75% de presença, o sistema deverá considerá-lo como "reprovado por faltas". Portanto, a partir do momento em que o aluno tiver uma porcentagem de presença menor do que 80%, o sistema deverá enviar uma notificação aos responsáveis do aluno avisando que ele está próximo do limite de faltas. Adicionalmente, o sistema deverá ser inclusivo, de forma que pessoas portadoras de deficiências físicas sejam capazes de utilizá-lo sem dificuldades com o aumento do tamanho dos textos e uma opção para ouvir as funcionalidades em áudio, de forma que os usuários consigam utilizá-lo de forma prática, e por meio de qualquer navegador web.
+O projeto consistirá de um sistema de presença para a escola INFINITO. Ele terá que computar as faltas dos alunos de todas as turmas da escola (do primeiro ao quinto ano do ensino fundamental). Haverá um professor principal que é responsável pelas disciplinas de Matemática, Português, Artes, Ciências, História e Geografia, e um professor para Inlês e outro para Educação Física.</br> Esse sistema deverá gerar um relatório de faltas organizados por diversas categorias, como data, ano de ensino, turma, professor, disciplina ou aluno. Nessa escola, a chamada é feita duas vezes ao dia, já que a maior parte das matérias é ministrada pelo mesmo professor. Caso o aluno termine o ano com menos de 75% de presença, o sistema deverá considerá-lo como "reprovado por faltas". Portanto, a partir do momento em que o aluno tiver uma porcentagem de presença menor do que 80%, o sistema deverá enviar uma notificação aos responsáveis do aluno avisando que ele está próximo do limite de faltas.</br> Adicionalmente, o sistema deverá ser inclusivo, de forma que pessoas portadoras de deficiências físicas sejam capazes de utilizá-lo sem dificuldades com o aumento do tamanho dos textos e uma opção para ouvir as funcionalidades em áudio, de forma que os usuários consigam utilizá-lo de forma prática, e por meio de qualquer navegador web.
 
 # Análise de Requisitos Funcionais e Não-Funcionais
 [RF001  - Login]: O usuário deve ser capaz de entrar no sistema utilizando o nome de usuário e senha.</br>
@@ -47,19 +47,28 @@ O projeto consistirá de um sistema de presença para a escola INFINITO. Ele ter
 [RF006  -  Visualizar perfil]: O aluno, o professor e o responsável deve ser capaz de acessar o perfil do aluno com as suas informações.</br>
 [RF007  -  Pesquisar aluno]: O professor deve ser capaz de encontrar o aluno desejado por nome e turma.</br>
 [RF008  -  Gestão de turmas]: O sistema deve permitir a criação e gerenciamento de turmas, alocando alunos e professores em cada turma.</br>
+[RF009 - Exportação de relatórios]: O sistema deve permitir a exportação de relatórios de faltas e presenças em formatos como PDF ou Excel.</br>
+[RF010 - Níveis de acesso]: O sistema deve suportar diferentes níveis de acesso, como administrador, professor, aluno e responsável, com permissões específicas para cada perfil.</br>
+
 
 
 [RNF001  -  Configuração]: O sistema deve ser capaz de suportar minimamente 300 computações de falta por dia</br>
 [RNF002  -  Acessibilidade]: O sistema deve ser acessível, permitindo alterações como tamanho da fonte, reconhecimento por voz, plugin de acessibilidade em línguas de sinais e software de leitura de tela.</br>
 [RNF003  -  Compatibilidade]: O sistema deve permitir o acesso em dispositivos móveis e computadores, tendo seu próprio aplicativo ou via web.</br>
+[RNF004 - Desempenho]: O sistema deve responder às ações do usuário em até 2 segundos para garantir uma experiência fluida.</br>
+[RNF005 - Usabilidade]: O sistema deve ser intuitivo e fácil de usar, seguindo as melhores práticas de design de interface e experiência do usuário.</br>
+[RNF006 - Escalabilidade]: O sistema deve ser escalável para suportar um aumento no número de usuários sem perda de desempenho.</br>
+
 # Diagrama de Atividades
-
-![image](https://github.com/user-attachments/assets/33941c67-2192-4b0d-a1f2-2ee0d61c8a8a)
-
+![image](https://github.com/user-attachments/assets/6ba2fc0f-e42d-4d74-a695-20b1f7ca9e14)
+![image](https://github.com/user-attachments/assets/937af0d5-c827-4252-b78b-93f738208170)
+link: https://app.diagrams.net/#G1cr0_u92LDlYab_agNlxLE18xNJm6x0E1#%7B%22pageId%22%3A%22cSahUEfquRX7Xm5HyozH%22%7D
 
 # Diagrama de Casos de Uso
 
-![image](https://github.com/user-attachments/assets/0e3af51a-b65a-4969-be8d-b40d553c0674)
+
+![image](https://github.com/user-attachments/assets/5685482d-756f-4240-963e-b47c1c623c8c)
+link: https://app.diagrams.net/#G1t5n4MYqT5EJt036Dnl3jX7yXbz_8akx1#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 # Descrição dos Casos de Uso
 
