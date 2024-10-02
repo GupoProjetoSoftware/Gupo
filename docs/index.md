@@ -65,13 +65,13 @@ O projeto consistirá de um sistema de presença para a escola INFINITO. Ele ter
 link: https://app.diagrams.net/#G1cr0_u92LDlYab_agNlxLE18xNJm6x0E1#%7B%22pageId%22%3A%22cSahUEfquRX7Xm5HyozH%22%7D
 
 # Diagrama de Casos de Uso
-
-![image](https://github.com/user-attachments/assets/a8723126-092d-4082-8210-5423762df325)
+![image](https://github.com/user-attachments/assets/5c481b71-a741-43ea-a87c-536ef4787271)
 link: https://app.diagrams.net/#G1t5n4MYqT5EJt036Dnl3jX7yXbz_8akx1#%7B%22pageId%22%3A%22C5RBs43oDa-KdzZeNtuy%22%7D
 
 # Descrição dos Casos de Uso
-
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
+![image](https://github.com/user-attachments/assets/12f0775e-a994-4e5a-8ae9-ad142e1db1a9)
+![image](https://github.com/user-attachments/assets/d50934bc-dfb0-4c07-b461-7037f088fac3)
+![image](https://github.com/user-attachments/assets/1c324f0c-7b28-4828-bd5f-552afde8d557)
 
 # Diagrama de Sequência
 
