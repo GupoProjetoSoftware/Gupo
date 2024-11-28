@@ -23,7 +23,6 @@
 
 * André Sapucaia                 10418734
 * Bernardo Souza Oliveira        10312871
-* Diogo Ozi                      10403852
 * Henrique Yuji Isogai Yoneoka   10418153
 
 
