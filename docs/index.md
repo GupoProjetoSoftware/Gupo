@@ -67,6 +67,10 @@ link: https://app.diagrams.net/#G1t5n4MYqT5EJt036Dnl3jX7yXbz_8akx1#%7B%22pageId%
 ![image](https://github.com/user-attachments/assets/1c324f0c-7b28-4828-bd5f-552afde8d557)
 
 # Diagrama de Sequência
+![image](https://github.com/user-attachments/assets/aa85b882-ad50-4674-9104-971d6522c39e)
+![image](https://github.com/user-attachments/assets/77ed8b47-b978-49ce-878b-245dd7002303)
+![image](https://github.com/user-attachments/assets/c407a5ba-7081-4a40-9c6e-e4a9c384988b)
+link: https://drive.google.com/file/d/1YyPYPdg6DNRE4hYbI1sdvzSwZoQqP2BH/view?usp=sharing
 
 # Diagrama de Classes
 ![image](https://github.com/user-attachments/assets/ba9a9cbf-d664-4355-aa4d-6d1c727ffc25)
