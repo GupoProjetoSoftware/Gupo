@@ -14,10 +14,10 @@
 - [Diagrama de Atividades](#diagrama-de-atividades) 
 - [Diagrama de Casos de Uso](#diagrama-de-casos-de-uso)
 - [Descrição dos Casos de Uso](#descrição-dos-casos-de-uso)
-- [Diagrama de Senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de Classes](#diagrama-orientado-objetos)
-- [Diagrama de Estados](#diagrama-estrutura-componente)
-- [Diagrama de Implantação](#diagrama-de-hardware-software)
+- [Diagrama de Senquencia](#diagrama-de-sequência)
+- [Diagrama de Classes](#diagrama-de-classes)
+- [Diagrama de Estados](#diagrama-de-estados)
+- [Diagrama de Implantação](#diagrama-de-implantação)
 - [Referências](#referências)
 
 
@@ -70,19 +70,16 @@ link: https://app.diagrams.net/#G1t5n4MYqT5EJt036Dnl3jX7yXbz_8akx1#%7B%22pageId%
 
 # Diagrama de Sequência
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
-
 # Diagrama de Classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
+![image](https://github.com/user-attachments/assets/ba9a9cbf-d664-4355-aa4d-6d1c727ffc25)
+link: https://drive.google.com/file/d/1r2AfY2D1O5fbTIcj-jkiGvuq9aVBdwDo/view?usp=sharing
 # Diagrama de Estados
 
-*&lt;Diagrama para permite modelar o comportamento interno de um determinado objeto, subsistema ou sistema global&gt;*
+![image](https://github.com/user-attachments/assets/5812ea1c-d356-4b13-bc51-f63348f84629)
+![image](https://github.com/user-attachments/assets/81234ae5-a8cc-4f94-b271-869726a81e83)
+link: https://drive.google.com/file/d/17tIcUFA2IrFAwJtxyC-lgTvkIWhP9oxT/view?usp=sharing
 
 # Diagrama de Implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
 
 # Referências
 
