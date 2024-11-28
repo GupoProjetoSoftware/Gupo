@@ -18,8 +18,6 @@
 - [Diagrama de Classes](#diagrama-de-classes)
 - [Diagrama de Estados](#diagrama-de-estados)
 - [Diagrama de Implantação](#diagrama-de-implantação)
-- [Referências](#referências)
-
 
 # Autores
 
@@ -80,7 +78,5 @@ link: https://drive.google.com/file/d/1r2AfY2D1O5fbTIcj-jkiGvuq9aVBdwDo/view?usp
 link: https://drive.google.com/file/d/17tIcUFA2IrFAwJtxyC-lgTvkIWhP9oxT/view?usp=sharing
 
 # Diagrama de Implantação
-
-# Referências
-
-*&lt;Lista de referências&gt;*
+![image](https://github.com/user-attachments/assets/d9764296-270c-40fe-866e-b08f5df6ac7a)
+link: https://drive.google.com/file/d/11OZrV2fVJO5PISJPKQslbey-KyKKWFdP/view?usp=sharing
